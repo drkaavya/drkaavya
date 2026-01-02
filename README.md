@@ -1,4 +1,4 @@
-## # 👩‍⚕️ Dr. Kaavya
+# 👩‍⚕️ Dr. Kaavya
 
 ### BHMS | Homoeopathic Physician  
 **Online Consultation Only**
@@ -6,12 +6,12 @@
 ---
 
 ## About Me
-I am a qualified Homoeopathic Physician (BHMS, 2024) providing online consultations with a holistic and individualised approach. I focus on treating the root cause of illness and supporting long-term healing through safe, patient-centred care.
+I am a qualified Homoeopathic Physician (BHMS, 2024) providing online consultations with a holistic and individualised approach to healthcare. I focus on managing thyroid-related complaints, gynaecological conditions such as endometriosis and infertility, skin allergies, and chronic lifestyle-related disorders, with emphasis on safe, patient-centred, and long-term care.
 
 ---
 
 ## Areas of Care
-- Thyroid-related disorders  
+- Thyroid disorders  
 - Menstrual & gynaecological complaints  
 - Endometriosis  
 - Infertility support  
@@ -28,12 +28,12 @@ I am a qualified Homoeopathic Physician (BHMS, 2024) providing online consultati
 
 ---
 
-## Consultation Mode
-💻 Online only  
-📞 Video / Audio / Chat consultation
+## Consultation & Appointments
+Appointments are provided through online consultation only. Patients can book appointments by initiating a WhatsApp chat or by calling directly. WhatsApp consultation is preferred for quick and convenient scheduling, with video, audio, or chat-based consultation as suitable. All consultations are handled professionally with strict confidentiality.
 
----
+📲 WhatsApp Chat:  
+https://wa.me/917708372818
 
-## Languages
-English | Tamil
+📞 Call for Appointment:  
+phone :+917708372818
 
